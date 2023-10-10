@@ -1,5 +1,6 @@
 "" let g:python3_host_prog="C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0"
 set clipboard=unnamed
+set autowriteall
 set number
 syntax on
 set tabstop=2
